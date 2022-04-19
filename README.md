@@ -1,1 +1,1 @@
-# SDE-TP4-P-riph-riques-sur-BBC-micro-bit
+# SDE-TP4-Peripheriques-sur-BBC-micro-bit
